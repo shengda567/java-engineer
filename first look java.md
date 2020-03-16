@@ -10,3 +10,17 @@ java- 运行编译后的java程序（.class后缀）。
 如果要开发java软件，需要下载JDK(面向开发人员)。
 JDK中附带JRE.
 如图： 
+![image](https://github.com/shengda567/java-engineer/blob/master/JDK_JRE_JVM.jpg)
+
+4. JAVA平台：
+JavaSE 主要是用于开发桌面程序。 
+JavaEE : 主要是用于开发web程序。 
+JavaME: 用于移动设备开发。
+
+用记事本写一个java程序
+class HelloImooc{
+  public static void main(String[] agrg){
+      System.out.println("Hello, imooc")
+  }
+}
+需要存成'HelloImooc.java'
