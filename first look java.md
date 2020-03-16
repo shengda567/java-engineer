@@ -17,10 +17,13 @@ JavaSE 主要是用于开发桌面程序。
 JavaEE : 主要是用于开发web程序。 
 JavaME: 用于移动设备开发。
 
-用记事本写一个java程序
+命令行程序（用记事本写一个java程序）
 class HelloImooc{
   public static void main(String[] agrg){
       System.out.println("Hello, imooc")
   }
 }
 需要存成'HelloImooc.java'
+
+5.如何在cdm中执行
+![image](https://github.com/shengda567/java-engineer/blob/master/cdm%E4%B8%AD%E7%BC%96%E8%AF%91%E6%89%A7%E8%A1%8C.jpg)
